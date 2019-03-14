@@ -10,6 +10,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+<<<<<<< HEAD
         Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show()
+=======
+        Toast.makeText(this, "bye-bye", Toast.LENGTH_SHORT).show()
+>>>>>>> feature2
     }
 }
